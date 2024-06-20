@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "tipo-regular";
+    src: url("../fuentes/Outfit-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-black";
+    src: url("../fuentes/Outfit-Black.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-bold";
+    src: url("../fuentes/Outfit-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-extrabold";
+    src: url("../fuentes/Outfit-ExtraBold.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "tipo-extra-light";
+    src: url("../fuentes/Outfit-ExtraLight.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-light";
+    src: url("../fuentes/Outfit-Light.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-medium";
+    src: url("../fuentes/Outfit-Medium.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-regular";
+    src: url("../fuentes/Outfit-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "tipo-semibold";
+    src: url("../fuentes/Outfit-SemiBold.ttf") format("truetype");
+}
+@font-face{
+    font-family: "tipo-thin";
+    src: url("../fuentes/Outfit-Thin.ttf") format("truetype");
+}
